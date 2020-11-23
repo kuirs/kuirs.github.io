@@ -11,9 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### About Me
+#### NAME: Kuirs CHEN
+#### School: XUZHOU University 
+### 研究方向
+#### Virtue Instruments
+### 项目研究
+#### Machine Vision
 
 - Bulleted
 - List
